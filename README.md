@@ -1,4 +1,4 @@
-#COVID-19 Data Analysis
+COVID-19 Data Analysis
 This repository contains Python code to analyze and visualize COVID-19 data using Pandas, Numpy, Matplotlib and Seaborn.
 
 The main dataset analyzed is a CSV file containing various metrics like confirmed cases, deaths, hospital beds, GDP, population demographics etc. for different countries and regions over time.
